@@ -641,6 +641,6 @@ systemctl restart nginx
 ```
 其它、/...110.1.
 兔子的代理
-github.mirror.mfym.tk
+https://github.mirror.mfym.tk/
 docker.mirror.mfym.tk
 1233567
