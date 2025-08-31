@@ -53,12 +53,8 @@ AuthorizedKeysFile /root/.ssh/authorized_keys
 PasswordAuthentication no
 MaxAuthTries 6
 LoginGraceTime 2m
-PasswordAuthentication no
 Banner none
 ChallengeResponseAuthentication no
-PermitRootLogin prohibit-password
-PubkeyAuthentication yes
-AuthorizedKeysFile /root/.ssh/authorized_keys
 ```
 </details>
 
@@ -645,5 +641,6 @@ https://github.mirror.mfym.tk/
 docker.mirror.mfym.tk
 .
 waterwater
+
 
 
