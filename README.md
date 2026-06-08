@@ -155,7 +155,7 @@ apt-get install redis
 ```
 apt-get install tmux
 ```
-安装 docker
+安装 docker [官方文档](https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository)
 ```
 bash <(curl -sSL https://linuxmirrors.cn/docker.sh)
 ```
